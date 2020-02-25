@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SportCar
+comment0.text=\r\n\ Subclass\ of\ Vehicle\r\n\r\n\ @Idan\r\n\ @\r\n
+comment1.params=Horsepower\ Weight\ TS
+comment1.target=SportCar(double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SportCar\r\n
+comment2.params=
+comment2.target=double\ getTopSpeed()
+numComments=3

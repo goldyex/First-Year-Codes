@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ Largest\ Class,\ contain\ basic\ info\ about\ vehicles\ \r\n\r\n\ @Idan\r\n\ \r\n
+comment1.params=Horsepower\ Aerodynamics\ Weight
+comment1.target=Vehicle(double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Vehicle\r\n
+comment2.params=
+comment2.target=double\ acceleration()
+comment3.params=
+comment3.target=double\ getHP()
+comment4.params=
+comment4.target=double\ getAerodynamics()
+comment5.params=
+comment5.target=double\ getWeight()
+numComments=6
